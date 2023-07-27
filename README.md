@@ -18,6 +18,8 @@ To access MovieRenderQueue settings enable the plugin.
 #### SetupCVars
 
 Allows to change some CVars at runtime. They are pretty limited to what I needed but the idea is usefull.
+![01_Setup Cvars](https://github.com/Gil-1/UERenderTools/assets/11734754/584faac3-43a3-4f34-96d1-4797ec309ce0)
+
 
 ### Materials
 
