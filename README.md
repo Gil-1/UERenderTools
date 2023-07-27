@@ -17,14 +17,29 @@ To access MovieRenderQueue settings enable the plugin.
 
 #### SetupCVars
 
-Allows to change some CVars at runtime. They are pretty limited to what I needed but the idea is usefull for me.
+Allows to change some CVars at runtime. They are pretty limited to what I needed but the idea is usefull.
 
 ### Materials
+
+![Capture d'écran 2023-07-27 122050](https://github.com/Gil-1/UERenderTools/assets/11734754/c485f3a2-5bee-4be4-a380-beb7adee115f)
+
+#### Uber Shader
+
+Lots of parameters that allows to quickly personalize the look and feel.
+![image](https://github.com/Gil-1/UERenderTools/assets/11734754/bafa3a8c-aaa2-4c68-9965-b6af1b684bda)
+Checkboxes parameters opens other parameters. Here is an example:
+![image](https://github.com/Gil-1/UERenderTools/assets/11734754/7ef9960c-05f1-421b-910e-8da08f3a21f0)
 
 #### Material Functions
 
 A few interesting material functions that are missing in UE.
 MF_FresnelOrientable inspired by [Riot](https://technology.riotgames.com/news/valorant-shaders-and-gameplay-clarity)
+
+![Capture d'écran 2023-07-27 122038](https://github.com/Gil-1/UERenderTools/assets/11734754/f28e224e-2021-4549-8678-86606a68717f)
+
+#### Metal
+
+![Capture d'écran 2023-07-27 122058](https://github.com/Gil-1/UERenderTools/assets/11734754/0ccc7208-c10d-4585-8e38-70a15065d5aa)
 
 ## Credits
 
