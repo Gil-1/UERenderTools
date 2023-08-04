@@ -1,6 +1,6 @@
-Gil Guminski @ <a href="https://www.artstation.com/gilguminski" target="_blank">https://www.artstation.com/gilguminski</a> | Twitter: <a href="https://twitter.com/GilGuminski" target="_blank">@GilGuminski</a>
-
 # UE Render Tools
+
+Gil Guminski @ [https://www.artstation.com/gilguminski](https://www.artstation.com/gilguminski) | Twitter: [@GilGuminski](https://twitter.com/GilGuminski)
 
 All assets are compatible with Unreal Engine 5.2.1. They might not work with previous version as is.
 These are the materials, material functions & settings I have used in the past.
@@ -56,7 +56,6 @@ They only have been tested on UE 5.1
 
 ![image](https://github.com/Gil-1/UERenderTools/assets/11734754/0dcf765f-c675-417e-9409-3d9553d7173c)
 
-
 ## Credits
 
 Please, if you think that something is coming from you, reach out.
@@ -67,6 +66,12 @@ I didn't kept all references.
 - Visual Tech Art [https://www.youtube.com/@VisualTechArt](@VisualTechArt)
 - Rodrigo Villani [https://twitter.com/r_villani](@R_Villani)
 - Azure Midsummer [https://twitter.com/millenia3d](@millenia3d)
+- Ben Cloward [https://twitter.com/BenCloward](@BenCloward)
+- kishimisu [https://twitter.com/kishimisu](@kishimisu)
+- Epic Games (ContentExamples)
+
+2D signed distance functions: [https://iquilezles.org/articles/distfunctions2d/](https://iquilezles.org/articles/distfunctions2d/)
+Color palette article: [https://iquilezles.org/articles/palettes/](https://iquilezles.org/articles/palettes/)
 
 ## License
 
